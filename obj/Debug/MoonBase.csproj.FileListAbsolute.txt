@@ -1,0 +1,10 @@
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csprojAssemblyReference.cache
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.FormMain.resources
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.Properties.Resources.resources
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.GenerateResource.cache
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.CoreCompileInputs.cache
+C:\Users\dcman\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.exe.config
+C:\Users\dcman\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.exe
+C:\Users\dcman\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.pdb
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.exe
+C:\Users\dcman\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.pdb
